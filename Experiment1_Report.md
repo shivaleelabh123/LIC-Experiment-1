@@ -5,6 +5,7 @@ Design of Common Source (CS) Amplifier using NMOS (TSMC 0.18µm) in LT spice
 To design and simulate a Common Source amplifier using NMOS in TSMC 0.18µm technology with
 VDD = 2V and verify gain using LT spice.
 
+
 2. Given Specifications
 VDD = 2V
 Power ≤ 1.5mW
@@ -17,17 +18,19 @@ Desired Vout ≈ VDD/2
 
    
 ![Image description](IMG-20260224-WA0005.jpg)
+
     
 ![Image description](IMG-20260224-WA0006.jpg)
 
-5. Circuit Diagram 
+
+4. Circuit Diagram 
 ![Image description](IMG-20260224-WA0031.jpg)
 ![Image description](IMG-20260224-WA0022.jpg)
 
 
-7. Simulation Steps    
+5. Simulation Steps    
 
-   Step 1: Create New Schematic
+Step 1: Create New Schematic
 Open LTspice
 Click File → New Schematic
 Place required components:
@@ -150,11 +153,12 @@ Gain(dB) = 20 log(Av)
 | Voltage Gain (Av) | 3 | 3.06 |
 | Power | 0.4 mW | 0.39 mW |
 
+
 8. Validation
-The calculated power consumption is 0.4 mW, which is less than the given limit of 1.5 mW .
-The output DC voltage is approximately 1 V, which is equal to VDD/2, ensuring maximum symmetrical swing .
-The amplifier shows proper voltage amplification (Av ≈ 3) .
-The simulated results are close to the theoretical calculations .
+*The calculated power consumption is 0.4 mW, which is less than the given limit of 1.5 mW .
+*The output DC voltage is approximately 1 V, which is equal to VDD/2, ensuring maximum symmetrical swing .
+*The amplifier shows proper voltage amplification (Av ≈ 3) .
+*The simulated results are close to the theoretical calculations .
 
 
 9. Conclusion
