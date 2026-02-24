@@ -12,15 +12,17 @@ CL = 1pF
 Technology = 180nm
 Desired Vout ≈ VDD/2
 
-3. Design Calculations     
+3. Design Calculations
+![Image description](IMG-20260224-WA0005.jpg)
+    
+
+
+
+5. Circuit Diagram 
 😊
 
 
-4. Circuit Diagram 
-😊
-
-
-5. Simulation Steps    
+6. Simulation Steps    
 
    Step 1: Create New Schematic
 Open LTspice
