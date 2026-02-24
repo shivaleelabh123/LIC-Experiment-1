@@ -19,8 +19,9 @@ Desired Vout ≈ VDD/2
 ![Image description](IMG-20260224-WA0006.jpg)
 
 5. Circuit Diagram 
+![Image description](IMG-20260224-WA0031.jpg)
 
-6. Simulation Steps    
+7. Simulation Steps    
 
    Step 1: Create New Schematic
 Open LTspice
