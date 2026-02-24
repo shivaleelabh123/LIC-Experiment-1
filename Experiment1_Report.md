@@ -108,22 +108,28 @@ Frequency response change
 
 
 b) DC Analysis        
-😊
 
+![Image description](IMG-20260224-WA0028.jpg)
 
 (c) Transient Analysis   
-😊
 
-INPUT:😊
+![Image description](IMG-20260224-WA0027.jpg)
 
-OUTPUT:😊
+INPUT:
+
+![Image description](IMG-20260224-WA0026.jpg)
+
+OUTPUT:
+![Image description](IMG-20260224-WA0025.jpg)
 
   (d) AC Analysis
 WITHOUT CAPACITOR:
-😊
+
+![Image description](IMG-20260224-WA0024.jpg)
 
 WITH CAPACITOR:
-😊
+
+![Image description](IMG-20260224-WA0023.jpg)
 
 
 
