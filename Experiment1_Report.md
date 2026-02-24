@@ -135,8 +135,7 @@ WITH CAPACITOR:
 ![Image description](IMG-20260224-WA0023.jpg)
 
 
-
-6. Results
+6. Results:
 Voltage Gain (Practical):
 Av = Vout / Vin
 From simulation: Av ≈ 3.06
@@ -155,10 +154,10 @@ Gain(dB) = 20 log(Av)
 
 
 8. Validation
-*The calculated power consumption is 0.4 mW, which is less than the given limit of 1.5 mW .
-*The output DC voltage is approximately 1 V, which is equal to VDD/2, ensuring maximum symmetrical swing .
-*The amplifier shows proper voltage amplification (Av ≈ 3) .
-*The simulated results are close to the theoretical calculations .
+The calculated power consumption is 0.4 mW, which is less than the given limit of 1.5 mW .
+The output DC voltage is approximately 1 V, which is equal to VDD/2, ensuring maximum symmetrical swing .
+The amplifier shows proper voltage amplification (Av ≈ 3) .
+The simulated results are close to the theoretical calculations .
 
 
 9. Conclusion
