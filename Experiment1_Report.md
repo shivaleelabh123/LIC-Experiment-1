@@ -104,6 +104,7 @@ Frequency response change
 (a)	Operating Point Analysis  
 
 ![Image description](IMG-20260224-WA0030.jpg)
+![Image description](IMG-20260224-WA0029.jpg)
 
 
 b) DC Analysis        
