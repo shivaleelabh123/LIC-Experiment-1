@@ -14,6 +14,8 @@ Desired Vout ≈ VDD/2
      
 
 3. Design Calculations
+
+   
 ![Image description](IMG-20260224-WA0005.jpg)
     
 ![Image description](IMG-20260224-WA0006.jpg)
@@ -100,7 +102,9 @@ Bandwidth difference
 Frequency response change
 
 (a)	Operating Point Analysis  
-😊
+
+![Image description](IMG-20260224-WA0030.jpg)
+
 
 b) DC Analysis        
 😊
