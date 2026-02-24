@@ -20,6 +20,8 @@ Desired Vout ≈ VDD/2
 
 5. Circuit Diagram 
 ![Image description](IMG-20260224-WA0031.jpg)
+![Image description](IMG-20260224-WA0022.jpg)
+
 
 7. Simulation Steps    
 
