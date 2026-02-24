@@ -11,16 +11,14 @@ Power ≤ 1.5mW
 CL = 1pF
 Technology = 180nm
 Desired Vout ≈ VDD/2
+     
 
 3. Design Calculations
 ![Image description](IMG-20260224-WA0005.jpg)
     
-
-
+![Image description](IMG-20260224-WA0006.jpg)
 
 5. Circuit Diagram 
-😊
-
 
 6. Simulation Steps    
 
